@@ -20,4 +20,3 @@ jobs:
       - run: yarn install --immutable
 
       - run: yarn lint
-      - run: yarn test
